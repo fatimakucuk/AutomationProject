@@ -7,6 +7,6 @@ public class Hello {
         //i am ready to commit this
 
         //eu3 is awesome
-        //eu3 is learning use git from
+        //eu3 is learning use git from intelliG
     }
 }
